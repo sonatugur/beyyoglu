@@ -9,9 +9,9 @@
 import Foundation
 
 class Category {
-    var ID: Int?
-    var baseCategoryID: Int?
-    var name: String?
+    var ID: Int?                 //this id separeted into three; 1, 2, 3
+    var baseCategoryID: Int?     //this id separeted into 1,2,3,4,5,6,7,8,9,10
+    var name: String?            //which category named users under with
 
 }
 
