@@ -8,7 +8,7 @@
 
 import Foundation
 class Magaza_Product {
-    var urun: [Product]?
-    var stok: Int?
+    var urun: [Product]?   // initialize with Product Class
+    var stok: Int?         
 }
 
